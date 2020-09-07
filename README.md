@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Antoine Boucher
 
-## I am a university student at École de Technologie Supérieure in Montreal
-## I am Full Stack Developper Intern
+### I am a university student at École de Technologie Supérieure in Montreal
+### I am Full Stack Developper Intern
 
 - 🔭 I’m currently working on multiple docker setup for multiple open source project and from my own custom self-hosted services
 - 🌱 I’m currently learning everything 🤣
