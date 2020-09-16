@@ -1,6 +1,11 @@
 ### Hi there 👋, I'm Antoine Boucher
 
+
+[![Linkedin: antoine-bou13](https://img.shields.io/badge/-antoinebou13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-bou13/)](https://www.linkedin.com/in/antoine-bou13/)
+    <a href="https://stackoverflow.com/users/7993989/antoine-boucher" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 <a href="https://github.com/antoinebou13" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/antoinebou13/antoinebou13?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+[![GitHub Antoine](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/antoinebou13)
+
 
 ### Languages and Tools:
 
@@ -23,11 +28,7 @@
 <br />
 
 ### I am a university student at École de Technologie Supérieure in Montreal
-### I am Full Stack Developper Intern
-
-- 🔭 I’m currently working on multiple docker setup for multiple open source project and from my own custom self-hosted services
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I like to learn random fun fact (put in google :"i'm feeling curious")
+## Full Stack Developper Intern
 
 
 ### Spotify Playing 🎧
