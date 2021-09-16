@@ -24,7 +24,7 @@
 
 ### I am a university student at École de Technologie Supérieure in Montreal
 ### Enthusiast Home Lab
-#### ![.dotfiles](https://github.com/antoinebou13/.dotfiles)
+#### [![.dotfiles](https://github.com/antoinebou13/.dotfiles)]
 
 ## Full Stack Developper
 
