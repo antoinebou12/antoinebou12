@@ -23,7 +23,10 @@
 <br />
 
 ### I am a university student at École de Technologie Supérieure in Montreal
-## Full Stack Developper Intern
+### Enthusiast Home Lab
+#### [![.dotfiles](https://github.com/antoinebou13/.dotfiles)
+
+## Full Stack Developper
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antoinebou13)
