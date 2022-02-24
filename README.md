@@ -48,10 +48,11 @@ Good night of sleep
 ### 👨‍💻 This week, I spent my time on
 [![antoinebou13's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### 📈 Github Stats 
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoinebou13&theme=dark&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebou13&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
