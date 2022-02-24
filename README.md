@@ -34,8 +34,22 @@
 
 <br />
 
+### 🤔 I’m looking for help with
+Good night of sleep
 
-### Github Stats
+### 🗂️ Highlight Projects
+
+[![DasherControl](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou13&repo=DasherControl&theme=dark)](https://github.com/antoinebou13/DasherControl)
+
+### Github trophy
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=antoinebou13)](https://github.com/antoinebou13/github-profile-trophy)
+
+### 👨‍💻 This week, I spent my time on
+[![antoinebou13's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 📈 Github Stats 
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoinebou13&theme=dark&show_icons=true&hide_border=true" />
 
