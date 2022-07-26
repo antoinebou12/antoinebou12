@@ -29,7 +29,7 @@
 ## Full Stack Developper
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antoinebou13)
+[![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
 
 
 <br />
