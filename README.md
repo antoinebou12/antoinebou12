@@ -4,7 +4,8 @@
 [![Linkedin: antoine-bou13](https://img.shields.io/badge/-antoinebou13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-bou13/)](https://www.linkedin.com/in/antoine-bou13/)
     <a href="https://stackoverflow.com/users/7993989/antoine-boucher" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 [![GitHub Antoine](https://img.shields.io/github/followers/antoinebou13?label=follow&style=social)](https://github.com/antoinebou13)
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)(https://www.buymeacoffee.com/antoineboucher)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black(https://www.buymeacoffee.com/antoineboucher)]
 
 ### Languages and Tools:
 
