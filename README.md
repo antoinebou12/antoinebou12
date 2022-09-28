@@ -5,8 +5,6 @@
     <a href="https://stackoverflow.com/users/7993989/antoine-boucher" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 [![GitHub Antoine](https://img.shields.io/github/followers/antoinebou13?label=follow&style=social)](https://github.com/antoinebou13)
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black(https://www.buymeacoffee.com/antoineboucher)]
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
