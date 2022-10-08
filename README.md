@@ -27,7 +27,7 @@
 ## Full Stack Developper
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-antoinebou12.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
+[![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
 
 
 <br />
@@ -44,7 +44,7 @@ Good night of sleep
 [![Trophy](https://github-profile-trophy.vercel.app/?username=antoinebou12&theme=darkhub)](https://github.com/antoinebou12/github-profile-trophy)
 
 ### 👨‍💻 This week, I spent my time on
-[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 Github Stats 
 
