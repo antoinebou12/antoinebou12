@@ -93,7 +93,7 @@ Good night of sleep
 
 ## This week, I spent my time on
 
-[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)
+[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)
 
 ## Languages
 
