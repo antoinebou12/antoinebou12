@@ -1,7 +1,6 @@
-### Antoine Boucher
-
+# Antoine Boucher
 ## Full Stack Developper/Enthusiast Home Lab/DevOps
-I am a university student at École de Technologie Supérieure in Montreal
+### I am a university student at École de Technologie Supérieure in Montreal
 
 
 [![Linkedin: antoinebou12](https://img.shields.io/badge/-antoinebou12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-bou13/)](https://www.linkedin.com/in/antoineboucher12/)
