@@ -59,7 +59,6 @@ Automating everything!
 
 ![Bitwarden](https://img.shields.io/static/v1?style=flat-square&logo=bitwarden&logoColor=white&label=&labelColor=175DDC&message=Bitwarden&color=16171d)
 ![Cloudflare](https://img.shields.io/static/v1?style=flat-square&logo=cloudflare&logoColor=white&label=&labelColor=F38020&message=Cloudflare&color=16171d)
-![Datto](https://img.shields.io/static/v1?style=flat-square&logo=datto&logoColor=white&label=&labelColor=199ED9&message=Datto&color=16171d)
 ![Dependabot](https://img.shields.io/static/v1?style=flat-square&logo=dependabot&logoColor=white&label=&labelColor=025E8C&message=Dependabot&color=16171d)
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)
 ![GitHub Actions](https://img.shields.io/static/v1?style=flat-square&logo=githubactions&logoColor=white&label=&labelColor=2088FF&message=GitHub%20Actions&color=16171d)
