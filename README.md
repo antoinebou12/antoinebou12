@@ -3,6 +3,11 @@
 ## Full Stack Developper/Enthusiast Home Lab/DevOps
 I am a university student at École de Technologie Supérieure in Montreal
 
+
+[![Linkedin: antoinebou12](https://img.shields.io/badge/-antoinebou12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-bou13/)](https://www.linkedin.com/in/antoinebou12/)
+    <a href="https://stackoverflow.com/users/7993989/antoine-boucher" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+[![GitHub Antoine](https://img.shields.io/github/followers/antoinebou12?label=follow&style=social)](https://github.com/antoinebou12)
+
 ## University Classes
 <details> 
  <summary>🎒</summary>
@@ -73,9 +78,42 @@ Good night of sleep
 
 <br>
 
-[![Linkedin: antoinebou12](https://img.shields.io/badge/-antoinebou12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-bou13/)](https://www.linkedin.com/in/antoinebou12/)
-    <a href="https://stackoverflow.com/users/7993989/antoine-boucher" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-[![GitHub Antoine](https://img.shields.io/github/followers/antoinebou12?label=follow&style=social)](https://github.com/antoinebou12)
+## Spotify Playing 
+<details> 
+ <summary>🎧</summary>
+
+[![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
+
+</details>
+
+## Highlight Projects
+<details> 
+ <summary>🗂️</summary>
+
+[![DasherControl](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou12&repo=DasherControl&theme=dark)](https://github.com/antoinebou13/DasherControl)
+
+</details>
+
+## This week, I spent my time on
+<details> 
+ <summary>📊</summary>
+[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+### Github Stats 
+<details> 
+    <summary>📈</summary>
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebou12&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+### Github trophy 
+<details> 
+ <summary>🏆</summary>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=antoinebou12&theme=darkhub)](https://github.com/antoinebou12/github-profile-trophy)
+</details>
 
 
 ## 👨‍💻 Languages | Tools  
@@ -116,45 +154,3 @@ Good night of sleep
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="20" height="20" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="20" height="20@" alt="After Effects" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="20" height="20" alt="XD" /></a>
-
-
-## Spotify Playing 
-<details> 
- <summary>🎧</summary>
-
-[![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
-
-</details>
-
-## Highlight Projects
-<details> 
- <summary>🗂️</summary>
-
-[![DasherControl](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou12&repo=DasherControl&theme=dark)](https://github.com/antoinebou13/DasherControl)
-
-</details>
-
-## This week, I spent my time on
-<details> 
- <summary>📊</summary>
-[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-### Github Stats 
-<details> 
-    <summary>📈</summary>
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebou12&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-### Github trophy 
-<details> 
- <summary>🏆</summary>
-[![Trophy](https://github-profile-trophy.vercel.app/?username=antoinebou12&theme=darkhub)](https://github.com/antoinebou12/github-profile-trophy)
-</details>
-
-
-
-
