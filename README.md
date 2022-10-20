@@ -106,11 +106,8 @@ Good night of sleep
 
 </details>
 
-### Github trophy 
-<details> 
- <summary>🏆</summary>
+### Github Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=antoinebou12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
 
 
 ## 👨‍💻 Languages | Tools  
