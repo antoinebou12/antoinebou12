@@ -78,13 +78,10 @@ Good night of sleep
 
 <br>
 
-## Spotify Playing 
-<details> 
- <summary>🎧</summary>
+## Spotify Playing 🎧
 
 [![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
 
-</details>
 
 ## Highlight Projects
 <details> 
@@ -95,17 +92,17 @@ Good night of sleep
 </details>
 
 ## This week, I spent my time on
-<details> 
- <summary>📊</summary>
-[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+
+[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebou12&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Stats 
 <details> 
     <summary>📈</summary>
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebou12&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
