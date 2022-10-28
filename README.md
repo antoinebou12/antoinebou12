@@ -98,6 +98,7 @@ Automating everything!
 ## University Classes
 <details> 
  <summary>🎒</summary>
+    TODO
     <details> 
         <summary>Programmable logic controller</summary>
     </details>
@@ -156,6 +157,7 @@ Automating everything!
 
 ## After-School Classes
 <details> 
+ TODO
  <summary>🛬</summary>
 </details>
 <br>
