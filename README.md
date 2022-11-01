@@ -20,7 +20,6 @@ He/Him/Us
 [![GitHub Antoine](https://img.shields.io/github/followers/antoinebou12?label=follow&style=social)](https://github.com/antoinebou12)
 
 ### ❤️ I’m currently looking for funding
-<iframe src="https://github.com/sponsors/antoinebou12/button" title="Sponsor antoinebou12" height="35" width="116" style="border: 0;"></iframe>
 [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/antoineboucher)
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/eVaaEYfLvaTp8jm5kl)
 
