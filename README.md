@@ -28,7 +28,9 @@ He/Him/Us
 Expanding my knowledge and experience with the skills and hobbies I love!
 School
 DashCTRL
-Kubernetes Clustor on proxmox on old dell idrac6 server
+ALgoETS
+[PromptEngineering] (https://github.com/antoinebou12/promptengineering)
+[MarketWatch API] (https://github.com/antoinebou12/marketwatch)
 
 ### 🌱 I’m currently learning
 
