@@ -26,11 +26,17 @@ He/Him/Us
 ### 🔭 I’m currently working on
 
 Expanding my knowledge and experience with the skills and hobbies I love!
-School
-DashCTRL
-ALgoETS
-[PromptEngineering] (https://github.com/antoinebou12/promptengineering)
-[MarketWatch API] (https://github.com/antoinebou12/marketwatch)
+
+[School](https://www.etsmtl.ca)
+
+[DashCTRL](https://github.com/dashctrl)
+
+[ALgoETS](https://github.com/algoets)
+
+[PromptEngineering](https://github.com/antoinebou12/promptengineering)
+
+[MarketWatch API](https://github.com/antoinebou12/marketwatch)
+
 
 ### 🌱 I’m currently learning
 
