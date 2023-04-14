@@ -16,6 +16,9 @@
 
 Expanding my knowledge and experience with the skills and hobbies I love!
 
+<details> 
+ <summary>🗂Project</summary>
+
 [School](https://www.etsmtl.ca)
 
 [DashCTRL](https://github.com/dashctrl)
@@ -25,6 +28,8 @@ Expanding my knowledge and experience with the skills and hobbies I love!
 [PromptEngineering](https://github.com/antoinebou12/promptengineering)
 
 [MarketWatch API](https://github.com/antoinebou12/marketwatch)
+ 
+</details>
 
 ## Spotify Playing 🎧
 
@@ -41,17 +46,37 @@ Expanding my knowledge and experience with the skills and hobbies I love!
 
 ## This week, I spent my time on
 
+<details> 
+ 
+ <summary>Time Stats</summary>
+ 
 [![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoinebou12&theme=aura_dark&utcOffset=8)
+ 
+</details> 
 
 ## Languages
-
+<details> 
+    <summary>Language used</summary>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebou12&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![RepoLanguage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antoinebou12&theme=aura_dark)
+ 
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoinebou12&theme=aura_dark)
+ 
+</details>
 
 ### Github Stats 
 <details> 
     <summary>📈</summary>
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true" />
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoinebou12&theme=aura_dark)
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antoinebou12&theme=aura_dark)
+ 
 </details>
 
 ### Github Trophy 🏆
