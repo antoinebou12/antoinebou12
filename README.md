@@ -52,7 +52,7 @@ Expanding my knowledge and experience with the skills and hobbies I love!
  
  <summary>Time Stats</summary>
  
-[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)
+[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoinebou12&theme=aura_dark&utcOffset=8)
  
