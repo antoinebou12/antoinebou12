@@ -17,8 +17,9 @@
 [![🎧](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
 
 ## Projects
-[![DasherControl](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou12&repo=DasherControl&theme=dark)](https://github.com/antoinebou13/DasherControl)
-
+[![BatchBacktesting](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=BatchBacktesting&theme=dark)](https://github.com/AlgoETS/BatchBacktesting)
+[![AINewsTracker](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=AINewsTracker&theme=dark)](https://github.com/AlgoETS/AINewsTracker)
+[![Workshop1](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=Workshop1&theme=dark)](https://github.com/AlgoETS/Workshop1)
 ## Time
 
 <details> 
