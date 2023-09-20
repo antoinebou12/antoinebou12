@@ -1,18 +1,60 @@
-name: Update README
+name: Update README with LeetCode Stats
 
 on:
-  schedule:
-    - cron: '0 * * * *'
   workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"  # Runs every day at 12:00 UTC
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Install Requests Python Package
+        run: pip install requests
+
+      - name: Update README with LeetCode stats and Badge
+        run: |
+          python - <<END
+          import requests
+          import json
+
+          # Fetch LeetCode stats
+          response = requests.get('https://leetcodestats.cyclic.app/antoinebou13')
+          stats = json.loads(response.text)
+
+          badge_url = "https://img.shields.io/badge/LeetCode-Stats-blue"
+
+          # Read existing README.md
+          with open('README.md', 'r') as f:
+            content = f.read()
+
+          # Add the badge to the top
+          new_content = f"![LeetCode Stats]({badge_url})\n" + content
+
+          # Add LeetCode Stats
+          new_content += "\nLeetCode Stats\n"
+          new_content += f"- Total Solved: {stats['totalSolved']}/{stats['totalQuestions']}\n"
+          new_content += f"- Easy Solved: {stats['easySolved']}/{stats['totalEasy']}\n"
+          new_content += f"- Medium Solved: {stats['mediumSolved']}/{stats['totalMedium']}\n"
+          new_content += f"- Hard Solved: {stats['hardSolved']}/{stats['totalHard']}\n"
+
+          # Write new README.md
+          with open('README.md', 'w') as f:
+            f.write(new_content)
+          END
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add -A
+          git commit -m "Automatically update README with LeetCode stats and Badge"
+          git push
