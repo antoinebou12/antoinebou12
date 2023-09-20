@@ -37,7 +37,7 @@ jobs:
           hard_solved_badge = f"[![Hard Solved](https://img.shields.io/badge/Hard_Solved-{stats['hardSolved']}%2F{stats['totalHard']}-red)](https://leetcodestats.cyclic.app/antoinebou13)"
 
           # LeetCode Stats section
-          new_section = f"<details>\n<summary>:trophy: LeetCode Stats</summary>\n{total_solved_badge}\n{easy_solved_badge}\n{medium_solved_badge}\n{hard_solved_badge}\n</details>"
+          new_section = f":trophy: LeetCode Stats\n{total_solved_badge}\n{easy_solved_badge}\n{medium_solved_badge}\n{hard_solved_badge}\n"
 
           # Read existing README.md
           with open('README.md', 'r') as f:
