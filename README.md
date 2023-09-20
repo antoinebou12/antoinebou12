@@ -1,13 +1,6 @@
-<details>
-<summary>:trophy: LeetCode Stats</summary>
-![Total Solved](https://img.shields.io/badge/Total_Solved-12%2F2862-blue)
-![Easy Solved](https://img.shields.io/badge/Easy_Solved-9%2F718-green)
-![Medium Solved](https://img.shields.io/badge/Medium_Solved-3%2F1515-yellow)
-![Hard Solved](https://img.shields.io/badge/Hard_Solved-0%2F629-red)
-</details>
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-Stats-blue)
 # Antoine Boucher
 ## Full Stack Developper
+
 
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)](https://github.com/antoinebou12)
 [![Gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&logoColor=white&label=&labelColor=EA4335&message=GMail&color=16171d)](mailto:antoine.boucher012@gmail.com)
@@ -17,38 +10,16 @@
 [![GitHub Antoine](https://img.shields.io/github/followers/antoinebou12?label=follow&style=social)](https://github.com/antoinebou12)
 [![Wakatime](https://wakatime.com/badge/user/de8e93c7-b418-4d37-92b4-af69baf023e6.svg)](https://wakatime.com/@de8e93c7-b418-4d37-92b4-af69baf023e6)
 
-### ❤️
 [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/antoineboucher)
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/eVaaEYfLvaTp8jm5kl)
 
-### Working on
-
-Expanding my knowledge and experience with the skills and hobbies I love!
-
-<details> 
- <summary>🗂Project</summary>
-
-[DashCTRL](https://github.com/dashctrl)
-
-[ALgoETS](https://github.com/algoets)
- 
-</details>
-
 ## Spotify
-<details> 
- <summary>🎧</summary>
-[![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
-</details>
+[![🎧](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
 
-## Highlight Projects
-<details> 
- <summary>🗂️</summary>
-
+## Projects
 [![DasherControl](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou12&repo=DasherControl&theme=dark)](https://github.com/antoinebou13/DasherControl)
 
-</details>
-
-## This week, I spent my time on
+## Time
 
 <details> 
  
@@ -72,7 +43,7 @@ Expanding my knowledge and experience with the skills and hobbies I love!
  
 </details>
 
-### Github Stats 
+### Stats 
 <details> 
     <summary>📈</summary>
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true" />
@@ -83,14 +54,6 @@ Expanding my knowledge and experience with the skills and hobbies I love!
  
 </details>
 
-### Github Trophy 
-<details> 
-    <summary>🏆</summary>
-[![trophy](https://github-profile-trophy.vercel.app/?username=antoinebou12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
+<!-- LEETCODE_STATS_START -->
+<!-- LEETCODE_STATS_END -->
 
-LeetCode Stats
-- Total Solved: 12/2862
-- Easy Solved: 9/718
-- Medium Solved: 3/1515
-- Hard Solved: 0/629
