@@ -1,6 +1,5 @@
 # Antoine Boucher
-## Full Stack Developper/Enthusiast Home Lab/DevOps
-### 📫 How to reach me
+## Full Stack Developper
 
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)](https://github.com/antoinebou12)
 [![Gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&logoColor=white&label=&labelColor=EA4335&message=GMail&color=16171d)](mailto:antoine.boucher012@gmail.com)
@@ -10,33 +9,28 @@
 [![GitHub Antoine](https://img.shields.io/github/followers/antoinebou12?label=follow&style=social)](https://github.com/antoinebou12)
 [![Wakatime](https://wakatime.com/badge/user/de8e93c7-b418-4d37-92b4-af69baf023e6.svg)](https://wakatime.com/@de8e93c7-b418-4d37-92b4-af69baf023e6)
 
-### ❤️ I’m currently looking for funding
+### ❤️
 [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/antoineboucher)
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/eVaaEYfLvaTp8jm5kl)
 
-### 🔭 I’m currently working on
+### Working on
 
 Expanding my knowledge and experience with the skills and hobbies I love!
 
 <details> 
  <summary>🗂Project</summary>
 
-[School](https://www.etsmtl.ca)
-
 [DashCTRL](https://github.com/dashctrl)
 
 [ALgoETS](https://github.com/algoets)
-
-[PromptEngineering](https://github.com/antoinebou12/promptengineering)
-
-[MarketWatch API](https://github.com/antoinebou12/marketwatch)
  
 </details>
 
-## Spotify Playing 🎧
-
+## Spotify
+<details> 
+ <summary>🎧</summary>
 [![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
-
+</details>
 
 ## Highlight Projects
 <details> 
@@ -81,5 +75,8 @@ Expanding my knowledge and experience with the skills and hobbies I love!
  
 </details>
 
-### Github Trophy 🏆
+### Github Trophy 
+<details> 
+    <summary>🏆</summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=antoinebou12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
