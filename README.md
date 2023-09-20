@@ -1,3 +1,10 @@
+<details>
+<summary>:trophy: LeetCode Stats</summary>
+![Total Solved](https://img.shields.io/badge/Total_Solved-12%2F2862-blue)
+![Easy Solved](https://img.shields.io/badge/Easy_Solved-9%2F718-green)
+![Medium Solved](https://img.shields.io/badge/Medium_Solved-3%2F1515-yellow)
+![Hard Solved](https://img.shields.io/badge/Hard_Solved-0%2F629-red)
+</details>
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-Stats-blue)
 # Antoine Boucher
 ## Full Stack Developper
