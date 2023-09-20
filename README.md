@@ -1,3 +1,4 @@
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-Stats-blue)
 # Antoine Boucher
 ## Full Stack Developper
 
@@ -80,3 +81,9 @@ Expanding my knowledge and experience with the skills and hobbies I love!
     <summary>🏆</summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=antoinebou12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
+
+LeetCode Stats
+- Total Solved: 12/2862
+- Easy Solved: 9/718
+- Medium Solved: 3/1515
+- Hard Solved: 0/629
