@@ -10,17 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
       - name: Install Requests Python Package
         run: pip install requests
 
-      - name: Update README with LeetCode stats and Badge
+      - name: Update README with LeetCode stats
         run: |
           python - <<END
           import requests
@@ -31,28 +31,31 @@ jobs:
           stats = json.loads(response.text)
 
           # Generate badge URLs
-          total_solved_badge = f"https://img.shields.io/badge/Total_Solved-{stats['totalSolved']}%2F{stats['totalQuestions']}-blue"
-          easy_solved_badge = f"https://img.shields.io/badge/Easy_Solved-{stats['easySolved']}%2F{stats['totalEasy']}-green"
-          medium_solved_badge = f"https://img.shields.io/badge/Medium_Solved-{stats['mediumSolved']}%2F{stats['totalMedium']}-yellow"
-          hard_solved_badge = f"https://img.shields.io/badge/Hard_Solved-{stats['hardSolved']}%2F{stats['totalHard']}-red"
+          total_solved_badge = f"[![Total Solved](https://img.shields.io/badge/Total_Solved-{stats['totalSolved']}%2F{stats['totalQuestions']}-blue)](https://leetcodestats.cyclic.app/antoinebou13)"
+          easy_solved_badge = f"[![Easy Solved](https://img.shields.io/badge/Easy_Solved-{stats['easySolved']}%2F{stats['totalEasy']}-green)](https://leetcodestats.cyclic.app/antoinebou13)"
+          medium_solved_badge = f"[![Medium Solved](https://img.shields.io/badge/Medium_Solved-{stats['mediumSolved']}%2F{stats['totalMedium']}-yellow)](https://leetcodestats.cyclic.app/antoinebou13)"
+          hard_solved_badge = f"[![Hard Solved](https://img.shields.io/badge/Hard_Solved-{stats['hardSolved']}%2F{stats['totalHard']}-red)](https://leetcodestats.cyclic.app/antoinebou13)"
+
+          # LeetCode Stats section
+          new_section = f"<details>\n<summary>:trophy: LeetCode Stats</summary>\n{total_solved_badge}\n{easy_solved_badge}\n{medium_solved_badge}\n{hard_solved_badge}\n</details>"
 
           # Read existing README.md
           with open('README.md', 'r') as f:
             content = f.read()
 
-          # Add the badges in a summary/details section
-          new_content = f"<details>\n<summary>:trophy: LeetCode Stats</summary>\n"
-          new_content += f"![Total Solved]({total_solved_badge})\n"
-          new_content += f"![Easy Solved]({easy_solved_badge})\n"
-          new_content += f"![Medium Solved]({medium_solved_badge})\n"
-          new_content += f"![Hard Solved]({hard_solved_badge})\n</details>\n"
+          # Locate markers and replace content
+          start_marker = "<!-- LEETCODE_STATS_START -->"
+          end_marker = "<!-- LEETCODE_STATS_END -->"
+          start_index = content.find(start_marker)
+          end_index = content.find(end_marker)
 
-          # Append to existing content
-          new_content += content
+          if start_index != -1 and end_index != -1:
+            end_index += len(end_marker)
+            content = content[:start_index] + start_marker + "\n" + new_section + "\n" + end_marker + content[end_index:]
 
           # Write new README.md
           with open('README.md', 'w') as f:
-            f.write(new_content)
+            f.write(content)
           END
 
       - name: Commit and push
@@ -60,5 +63,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add -A
-          git commit -m "Automatically update README with LeetCode stats and Badges"
+          git commit -m "Automatically update README with LeetCode stats"
           git push
