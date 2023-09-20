@@ -57,6 +57,7 @@
 
 <!-- LEETCODE_STATS_START -->
 :trophy: LeetCode Stats
+
 [![Total Solved](https://img.shields.io/badge/Total_Solved-12%2F2862-blue)](https://leetcodestats.cyclic.app/antoinebou13)
 [![Easy Solved](https://img.shields.io/badge/Easy_Solved-9%2F718-green)](https://leetcodestats.cyclic.app/antoinebou13)
 [![Medium Solved](https://img.shields.io/badge/Medium_Solved-3%2F1515-yellow)](https://leetcodestats.cyclic.app/antoinebou13)
