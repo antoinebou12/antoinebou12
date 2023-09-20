@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
           python-version: "3.x"
 
@@ -30,21 +30,25 @@ jobs:
           response = requests.get('https://leetcodestats.cyclic.app/antoinebou13')
           stats = json.loads(response.text)
 
-          badge_url = "https://img.shields.io/badge/LeetCode-Stats-blue"
+          # Generate badge URLs
+          total_solved_badge = f"https://img.shields.io/badge/Total_Solved-{stats['totalSolved']}%2F{stats['totalQuestions']}-blue"
+          easy_solved_badge = f"https://img.shields.io/badge/Easy_Solved-{stats['easySolved']}%2F{stats['totalEasy']}-green"
+          medium_solved_badge = f"https://img.shields.io/badge/Medium_Solved-{stats['mediumSolved']}%2F{stats['totalMedium']}-yellow"
+          hard_solved_badge = f"https://img.shields.io/badge/Hard_Solved-{stats['hardSolved']}%2F{stats['totalHard']}-red"
 
           # Read existing README.md
           with open('README.md', 'r') as f:
             content = f.read()
 
-          # Add the badge to the top
-          new_content = f"![LeetCode Stats]({badge_url})\n" + content
+          # Add the badges in a summary/details section
+          new_content = f"<details>\n<summary>:trophy: LeetCode Stats</summary>\n"
+          new_content += f"![Total Solved]({total_solved_badge})\n"
+          new_content += f"![Easy Solved]({easy_solved_badge})\n"
+          new_content += f"![Medium Solved]({medium_solved_badge})\n"
+          new_content += f"![Hard Solved]({hard_solved_badge})\n</details>\n"
 
-          # Add LeetCode Stats
-          new_content += "\nLeetCode Stats\n"
-          new_content += f"- Total Solved: {stats['totalSolved']}/{stats['totalQuestions']}\n"
-          new_content += f"- Easy Solved: {stats['easySolved']}/{stats['totalEasy']}\n"
-          new_content += f"- Medium Solved: {stats['mediumSolved']}/{stats['totalMedium']}\n"
-          new_content += f"- Hard Solved: {stats['hardSolved']}/{stats['totalHard']}\n"
+          # Append to existing content
+          new_content += content
 
           # Write new README.md
           with open('README.md', 'w') as f:
@@ -56,5 +60,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add -A
-          git commit -m "Automatically update README with LeetCode stats and Badge"
+          git commit -m "Automatically update README with LeetCode stats and Badges"
           git push
