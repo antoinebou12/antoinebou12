@@ -58,10 +58,10 @@
 <!-- LEETCODE_STATS_START -->
 :trophy: LeetCode Stats
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-13%2F2898-blue)](https://leetcodestats.cyclic.app/antoinebou13)
-[![Easy Solved](https://img.shields.io/badge/Easy_Solved-9%2F737-green)](https://leetcodestats.cyclic.app/antoinebou13)
-[![Medium Solved](https://img.shields.io/badge/Medium_Solved-4%2F1526-yellow)](https://leetcodestats.cyclic.app/antoinebou13)
-[![Hard Solved](https://img.shields.io/badge/Hard_Solved-0%2F635-red)](https://leetcodestats.cyclic.app/antoinebou13)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-13%2F2906-blue)](https://leetcodestats.cyclic.app/antoinebou13)
+[![Easy Solved](https://img.shields.io/badge/Easy_Solved-9%2F739-green)](https://leetcodestats.cyclic.app/antoinebou13)
+[![Medium Solved](https://img.shields.io/badge/Medium_Solved-4%2F1531-yellow)](https://leetcodestats.cyclic.app/antoinebou13)
+[![Hard Solved](https://img.shields.io/badge/Hard_Solved-0%2F636-red)](https://leetcodestats.cyclic.app/antoinebou13)
 
 <!-- LEETCODE_STATS_END -->
 
