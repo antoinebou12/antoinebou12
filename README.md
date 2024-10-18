@@ -9,6 +9,7 @@
 
 [![GitHub Antoine](https://img.shields.io/github/followers/antoinebou12?label=follow&style=social)](https://github.com/antoinebou12)
 [![Wakatime](https://wakatime.com/badge/user/de8e93c7-b418-4d37-92b4-af69baf023e6.svg)](https://wakatime.com/@de8e93c7-b418-4d37-92b4-af69baf023e6)
+<img align="right" src="https://komarev.com/ghpvc/?username=antoinebou12" alt="GitHub profile views counter">
 
 [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/antoineboucher)
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/eVaaEYfLvaTp8jm5kl)
@@ -35,6 +36,8 @@
 [![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoinebou12&theme=aura_dark&utcOffset=8)
+
+
  
 </details> 
 
