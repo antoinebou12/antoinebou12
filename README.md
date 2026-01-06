@@ -1,76 +1,95 @@
 # Antoine Boucher
-## Full Stack Developper
+**Engineer** · Open Source · Montréal, Canada
 
+I build cloud-native backend systems, automation, and developer tooling: **microservices, CI/CD, Kubernetes, Terraform**, and practical integrations that ship.
 
-[![GitHub](https://img.shields.io/static/v1?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&message=GitHub&color=16171d)](https://github.com/antoinebou12)
-[![Gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&logoColor=white&label=&labelColor=EA4335&message=GMail&color=16171d)](mailto:antoine.boucher012@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&message=LinkedIn&color=16171d)](https://linkedin.com/in/antoineboucher12)
-[![Twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&logoColor=white&label=&labelColor=1DA1F2&message=Twitter&color=16171d)](https://twitter.com/antoinebou12)
+- 🛠️ Main stack: **Java/Kotlin, Python, Docker, Kubernetes, Terraform, GCP**
+- 🎯 Interests: platform engineering, security automation, infra-as-code, open-source tooling
 
-[![GitHub Antoine](https://img.shields.io/github/followers/antoinebou12?label=follow&style=social)](https://github.com/antoinebou12)
-[![Wakatime](https://wakatime.com/badge/user/de8e93c7-b418-4d37-92b4-af69baf023e6.svg)](https://wakatime.com/@de8e93c7-b418-4d37-92b4-af69baf023e6)
-<img align="right" src="https://komarev.com/ghpvc/?username=antoinebou12" alt="GitHub profile views counter">
+## Links
+[![GitHub](https://img.shields.io/badge/GitHub-16171d?style=flat-square&logo=github&logoColor=white)](https://github.com/antoinebou12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16171d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoineboucher12)
+[![Email](https://img.shields.io/badge/Email-16171d?style=flat-square&logo=gmail&logoColor=white)](mailto:antoine.boucher012@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-16171d?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/antoinebou12)
 
-[![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/antoineboucher)
-[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/eVaaEYfLvaTp8jm5kl)
+> If you’re looking for collaboration or want to discuss a project, DM me on LinkedIn.
 
-## Spotify
-[![🎧](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
+---
 
-## Projects
-### AlgoETS
-[![Workshop1](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=Workshop1&theme=dark)](https://github.com/AlgoETS/Workshop1)
-[![AINewsTracker](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=AINewsTracker&theme=dark)](https://github.com/AlgoETS/AINewsTracker)
-[![BatchBacktesting](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=BatchBacktesting&theme=dark)](https://github.com/AlgoETS/BatchBacktesting)
-[![LegosTracker](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=LegosTracker&theme=dark)](https://github.com/AlgoETS/LegosTracker)
+## Tech I use a lot
+![Java](https://img.shields.io/badge/Java-16171d?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-16171d?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-16171d?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-16171d?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-16171d?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-16171d?style=flat-square&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-16171d?style=flat-square&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16171d?style=flat-square&logo=postgresql&logoColor=white)
 
-### Forks
-[![LegosTracker](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou12&repo=hass_renpho&theme=dark)](https://github.com/antoinebou12/hass_renpho)
+---
 
-## Time
+## Featured projects
+### AlgoÉTS
+Open-source + student community projects (trading / tooling / automation):
 
-<details> 
- 
- <summary>Time Stats</summary>
- 
-[![antoinebou12's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou12&theme=dark)
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoinebou12&theme=aura_dark&utcOffset=8)
+[![Workshop1](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=Workshop1&theme=dark&hide_border=true)](https://github.com/AlgoETS/Workshop1)
+[![AINewsTracker](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=AINewsTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/AINewsTracker)
+[![BatchBacktesting](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=BatchBacktesting&theme=dark&hide_border=true)](https://github.com/AlgoETS/BatchBacktesting)
+[![LegosTracker](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=LegosTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/LegosTracker)
 
+### Integrations / forks
+[![hass_renpho](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou12&repo=hass_renpho&theme=dark&hide_border=true)](https://github.com/antoinebou12/hass_renpho)
 
- 
-</details> 
+---
 
-## Languages
-<details> 
-    <summary>Language used</summary>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebou12&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Now playing (Spotify)
+[![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
 
-![RepoLanguage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antoinebou12&theme=aura_dark)
- 
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoinebou12&theme=aura_dark)
- 
+---
+
+## Stats (collapsed)
+<details>
+  <summary><b>📈 GitHub</b></summary>
+  <br/>
+
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true"
+  />
+
+  <br/><br/>
+
+  <img
+    alt="Profile Summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoinebou12&theme=github_dark"
+  />
 </details>
 
-### Stats 
-<details> 
-    <summary>📈</summary>
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true" />
- 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoinebou12&theme=aura_dark)
+<details>
+  <summary><b>⏱️ WakaTime</b></summary>
+  <br/>
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antoinebou12&theme=aura_dark)
- 
+  <!-- If your WakaTime username is different, update it below -->
+  <img
+    alt="WakaTime Stats"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark&hide_border=true"
+  />
+
+  <br/><br/>
+
+  <!-- Toronto is UTC-5 (winter). Adjust if needed. -->
+  <img
+    alt="Productive time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoinebou12&theme=github_dark&utcOffset=-5"
+  />
 </details>
 
+---
+
+## LeetCode (optional)
 <!-- LEETCODE_STATS_START -->
-:trophy: LeetCode Stats
-
 [![Total Solved](https://img.shields.io/badge/Total_Solved-13%2F3141-blue)](https://leetcodestats.cyclic.app/antoinebou13)
 [![Easy Solved](https://img.shields.io/badge/Easy_Solved-9%2F791-green)](https://leetcodestats.cyclic.app/antoinebou13)
 [![Medium Solved](https://img.shields.io/badge/Medium_Solved-4%2F1650-yellow)](https://leetcodestats.cyclic.app/antoinebou13)
 [![Hard Solved](https://img.shields.io/badge/Hard_Solved-0%2F700-red)](https://leetcodestats.cyclic.app/antoinebou13)
-
 <!-- LEETCODE_STATS_END -->
-
