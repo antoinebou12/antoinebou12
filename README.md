@@ -38,7 +38,7 @@ Open-source + student community projects (trading / tooling / automation):
 [![LegosTracker](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=LegosTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/LegosTracker)
 
 ### Integrations / forks
-[![hass_renpho](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou12&repo=hass_renpho&theme=dark&hide_border=true)](https://github.com/antoinebou12/hass_renpho)
+[![hass_renpho](https://github-readme-stats-fast.vercel.app/api/pin/?username=antoinebou12&repo=hass_renpho&theme=dark&hide_border=true)](https://github.com/antoinebou12/hass_renpho)
 
 ---
 
@@ -54,7 +54,7 @@ Open-source + student community projects (trading / tooling / automation):
 
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=antoinebou12&theme=dark&show_icons=true&hide_border=true"
   />
 
   <br/><br/>
@@ -72,7 +72,7 @@ Open-source + student community projects (trading / tooling / automation):
   <!-- If your WakaTime username is different, update it below -->
   <img
     alt="WakaTime Stats"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=antoinebou13&theme=dark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=antoinebou13&theme=dark&hide_border=true"
   />
 
   <br/><br/>
