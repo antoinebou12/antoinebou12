@@ -32,10 +32,10 @@ I build cloud-native backend systems, automation, and developer tooling: **micro
 ### AlgoÉTS
 Open-source + student community projects (trading / tooling / automation):
 
-[![Workshop1](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=Workshop1&theme=dark&hide_border=true)](https://github.com/AlgoETS/Workshop1)
-[![AINewsTracker](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=AINewsTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/AINewsTracker)
-[![BatchBacktesting](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=BatchBacktesting&theme=dark&hide_border=true)](https://github.com/AlgoETS/BatchBacktesting)
-[![LegosTracker](https://github-readme-stats.vercel.app/api/pin/?username=AlgoETS&repo=LegosTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/LegosTracker)
+[![Workshop1](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=Workshop1&theme=dark&hide_border=true)](https://github.com/AlgoETS/Workshop1)
+[![AINewsTracker](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=AINewsTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/AINewsTracker)
+[![BatchBacktesting](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=BatchBacktesting&theme=dark&hide_border=true)](https://github.com/AlgoETS/BatchBacktesting)
+[![LegosTracker](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=LegosTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/LegosTracker)
 
 ### Integrations / forks
 [![hass_renpho](https://github-readme-stats.vercel.app/api/pin/?username=antoinebou12&repo=hass_renpho&theme=dark&hide_border=true)](https://github.com/antoinebou12/hass_renpho)
