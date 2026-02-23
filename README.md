@@ -25,6 +25,8 @@ I build cloud-native backend systems, automation, and developer tooling: **micro
 ![Terraform](https://img.shields.io/badge/Terraform-16171d?style=flat-square&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-16171d?style=flat-square&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16171d?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-16171d?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-16171d?style=flat-square&logo=rust&logoColor=white)
 
 ---
 
