@@ -1,11 +1,6 @@
 # Antoine Boucher
 **Engineer** · Open Source · Montréal, Canada
 
-I build cloud-native backend systems, automation, and developer tooling: **microservices, CI/CD, Kubernetes, Terraform**, and practical integrations that ship.
-
-- 🛠️ Main stack: **Java/Kotlin, Python, Docker, Kubernetes, Terraform, GCP**
-- 🎯 Interests: platform engineering, security automation, infra-as-code, open-source tooling
-
 ## Links
 [![GitHub](https://img.shields.io/badge/GitHub-16171d?style=flat-square&logo=github&logoColor=white)](https://github.com/antoinebou12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16171d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoineboucher12)
