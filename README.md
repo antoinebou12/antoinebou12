@@ -1,6 +1,8 @@
 # Antoine Boucher
 **Engineer** · Open Source · Montréal, Canada
 
+I’m interested in computer graphics pipelines, physics-based rendering, and generative AI for game development. I like building interactive media projects, working with motion capture, and using AI to create fun and engaging experiences.
+
 ## Links
 [![GitHub](https://img.shields.io/badge/GitHub-16171d?style=flat-square&logo=github&logoColor=white)](https://github.com/antoinebou12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16171d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoineboucher12)
