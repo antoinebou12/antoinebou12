@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-16171d?style=flat-square&logo=gmail&logoColor=white)](mailto:antoine.boucher012@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-16171d?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/antoinebou12)
 
-> If you’re looking for collaboration or want to discuss a project, DM me on LinkedIn.
+> If you’re looking for collaboration or want to discuss a project, antoine@antoineboucher.info
 
 ---
 
