@@ -1,7 +1,7 @@
 # Antoine Boucher
 **Engineer** · Open Source · Montréal, Canada
 
-I work on real-time graphics and PBR: materials, sampling, and whether the image still holds up once you are past the showcase lighting. The part I keep coming back to is where ML meets the graphics pipeline in practice (2D image passes, 3D assets, denoisers, neural textures), not as a slide deck. For games and other interactive work, generative ML and LLM-assisted tools are interesting when they speed up iteration without washing out the bits I still want to own by hand, usually as prototypes, editor helpers, or small interactives where the controls still matter. I use motion capture when a performance is part of the pipeline. I also help with simulation code, homelab projects, and everyday automations that make home life a little less fiddly. For collaboration or a longer technical thread, [antoine@antoineboucher.info](mailto:antoine@antoineboucher.info).
+I work on real-time graphics and interaction: textures rooted in physics, plus materials and sampling, and whether the frame still reads under light and motion when you stop art-directing the lighting. A lot of that crosses ML in the pipeline, especially generative 3D (meshes, textures) alongside 2D passes, denoisers, and neural textures that ship inside a renderer. For games and interactive work I reach for motion capture when the body is the input, not an afterthought. Generative ML and LLM-backed helpers are worth it when they shorten iteration, but I still want the code and the tools under my own keys, not a black box I cannot patch. Homelab and self-hosted apps are part of that same habit. I also help with simulation code and small home automations. For collaboration or a longer technical thread, [antoine@antoineboucher.info](mailto:antoine@antoineboucher.info).
 
 ## Links
 [![GitHub](https://img.shields.io/badge/GitHub-16171d?style=flat-square&logo=github&logoColor=white)](https://github.com/antoinebou12)
@@ -23,6 +23,7 @@ I work on real-time graphics and PBR: materials, sampling, and whether the image
 ### Tools
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-16171d?style=flat-square&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-16171d?style=flat-square&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-16171d?style=flat-square&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-16171d?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16171d?style=flat-square&logo=postgresql&logoColor=white)
 
