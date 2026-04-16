@@ -14,20 +14,23 @@ I’m interested in computer graphics pipelines, physics-based rendering, and ge
 ---
 
 ## Tech I use a lot
-![Java](https://img.shields.io/badge/Java-16171d?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-16171d?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-16171d?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-16171d?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-16171d?style=flat-square&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-16171d?style=flat-square&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-16171d?style=flat-square&logo=kotlin&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-16171d?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-16171d?style=flat-square&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-16171d?style=flat-square&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16171d?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-16171d?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-16171d?style=flat-square&logo=rust&logoColor=white)
 
 ---
 
 ## Featured projects
+<details>
+  <summary>AlgoÉTS · pinned repos · integrations / forks</summary>
+  <br/>
+
 ### AlgoÉTS
 Open-source + student community projects (trading / tooling / automation):
 
@@ -39,14 +42,27 @@ Open-source + student community projects (trading / tooling / automation):
 ### Integrations / forks
 [![hass_renpho](https://github-readme-stats-fast.vercel.app/api/pin/?username=antoinebou12&repo=hass_renpho&theme=dark&hide_border=true)](https://github.com/antoinebou12/hass_renpho)
 
+</details>
+
 ---
 
 ## Now playing (Spotify)
-[![Spotify](https://novatorem-antoinebou13.vercel.app/api/spotify)](https://open.spotify.com/user/antmangaminghd)
+<a href="https://open.spotify.com/user/antmangaminghd"><img src="https://novatorem-antoinebou13.vercel.app/api/spotify" alt="Spotify now playing" width="360" /></a>
 
 ---
 
-## Stats (collapsed)
+## 3D contribution calendar
+
+Night green theme from [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib); SVGs are committed by [this workflow](.github/workflows/github-profile-3d-contrib.yml).
+
+<img
+  alt="3D GitHub contribution calendar (night green)"
+  src="./profile-3d-contrib/profile-night-green.svg"
+/>
+
+---
+
+## Stats
 <details>
   <summary><b>📈 GitHub</b></summary>
   <br/>
@@ -83,12 +99,15 @@ Open-source + student community projects (trading / tooling / automation):
   />
 </details>
 
----
+<details>
+  <summary><b>LeetCode</b></summary>
+  <br/>
 
-## LeetCode (optional)
-<!-- LEETCODE_STATS_START -->
-[![Total Solved](https://img.shields.io/badge/Total_Solved-13%2F3141-blue)](https://leetcodestats.cyclic.app/antoinebou13)
-[![Easy Solved](https://img.shields.io/badge/Easy_Solved-9%2F791-green)](https://leetcodestats.cyclic.app/antoinebou13)
-[![Medium Solved](https://img.shields.io/badge/Medium_Solved-4%2F1650-yellow)](https://leetcodestats.cyclic.app/antoinebou13)
-[![Hard Solved](https://img.shields.io/badge/Hard_Solved-0%2F700-red)](https://leetcodestats.cyclic.app/antoinebou13)
-<!-- LEETCODE_STATS_END -->
+  <!-- LEETCODE_STATS_START -->
+  [![Total Solved](https://img.shields.io/badge/Total_Solved-13%2F3141-blue)](https://leetcodestats.cyclic.app/antoinebou13)
+  [![Easy Solved](https://img.shields.io/badge/Easy_Solved-9%2F791-green)](https://leetcodestats.cyclic.app/antoinebou13)
+  [![Medium Solved](https://img.shields.io/badge/Medium_Solved-4%2F1650-yellow)](https://leetcodestats.cyclic.app/antoinebou13)
+  [![Hard Solved](https://img.shields.io/badge/Hard_Solved-0%2F700-red)](https://leetcodestats.cyclic.app/antoinebou13)
+  <!-- LEETCODE_STATS_END -->
+
+</details>
