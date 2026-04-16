@@ -1,64 +1,56 @@
 # Antoine Boucher
 **Engineer** · Open Source · Montréal, Canada
 
-I’m interested in computer graphics pipelines, physics-based rendering, and generative AI for game development. I like building interactive media projects, working with motion capture, and using AI to create fun and engaging experiences.
+I work on real-time graphics and PBR: materials, sampling, and whether the image still holds up once you are past the showcase lighting. The part I keep coming back to is where ML meets the graphics pipeline in practice (2D image passes, 3D assets, denoisers, neural textures), not as a slide deck. For games and other interactive work, generative ML and LLM-assisted tools are interesting when they speed up iteration without washing out the bits I still want to own by hand, usually as prototypes, editor helpers, or small interactives where the controls still matter. I use motion capture when a performance is part of the pipeline. I also help with simulation code, homelab projects, and everyday automations that make home life a little less fiddly. For collaboration or a longer technical thread, [antoine@antoineboucher.info](mailto:antoine@antoineboucher.info).
 
 ## Links
 [![GitHub](https://img.shields.io/badge/GitHub-16171d?style=flat-square&logo=github&logoColor=white)](https://github.com/antoinebou12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16171d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoineboucher12)
+[![Website](https://img.shields.io/badge/antoineboucher.info-16171d?style=flat-square&logo=googlechrome&logoColor=white)](https://antoineboucher.info/)
 [![Email](https://img.shields.io/badge/Email-16171d?style=flat-square&logo=gmail&logoColor=white)](mailto:antoine.boucher012@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-16171d?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/antoinebou12)
-
-> If you’re looking for collaboration or want to discuss a project, antoine@antoineboucher.info
 
 ---
 
 ## Tech I use a lot
+
+### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-16171d?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-16171d?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-16171d?style=flat-square&logo=docker&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-16171d?style=flat-square&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-16171d?style=flat-square&logo=kotlin&logoColor=white)
+
+### Tools
+![ComfyUI](https://img.shields.io/badge/ComfyUI-16171d?style=flat-square&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-16171d?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-16171d?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16171d?style=flat-square&logo=postgresql&logoColor=white)
+
+### Deployment
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-16171d?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-16171d?style=flat-square&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-16171d?style=flat-square&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16171d?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 ## Featured projects
 <details>
-  <summary>AlgoÉTS · pinned repos · integrations / forks</summary>
+  <summary>Pinned repos · integrations / forks</summary>
   <br/>
 
-### AlgoÉTS
-Open-source + student community projects (trading / tooling / automation):
-
-[![Workshop1](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=Workshop1&theme=dark&hide_border=true)](https://github.com/AlgoETS/Workshop1)
 [![AINewsTracker](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=AINewsTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/AINewsTracker)
-[![BatchBacktesting](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=BatchBacktesting&theme=dark&hide_border=true)](https://github.com/AlgoETS/BatchBacktesting)
-[![LegosTracker](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=LegosTracker&theme=dark&hide_border=true)](https://github.com/AlgoETS/LegosTracker)
-
-### Integrations / forks
 [![hass_renpho](https://github-readme-stats-fast.vercel.app/api/pin/?username=antoinebou12&repo=hass_renpho&theme=dark&hide_border=true)](https://github.com/antoinebou12/hass_renpho)
+[![Workshop1](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=Workshop1&theme=dark&hide_border=true)](https://github.com/AlgoETS/Workshop1)
+[![BatchBacktesting](https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoETS&repo=BatchBacktesting&theme=dark&hide_border=true)](https://github.com/AlgoETS/BatchBacktesting)
+[![MistubaVideo](https://github-readme-stats-fast.vercel.app/api/pin/?username=ETSim&repo=MistubaVideo&theme=dark&hide_border=true)](https://github.com/ETSim/MistubaVideo)
+[![ipc-toolkit](https://github-readme-stats-fast.vercel.app/api/pin/?username=antoinebou12&repo=ipc-toolkit&theme=dark&hide_border=true)](https://github.com/antoinebou12/ipc-toolkit)
+[![TrueMapData](https://github-readme-stats-fast.vercel.app/api/pin/?username=ETSim&repo=TrueMapData&theme=dark&hide_border=true)](https://github.com/ETSim/TrueMapData)
 
 </details>
 
----
 
 ## Now playing (Spotify)
 <a href="https://open.spotify.com/user/antmangaminghd"><img src="https://novatorem-antoinebou13.vercel.app/api/spotify" alt="Spotify now playing" width="360" /></a>
-
----
-
-## 3D contribution calendar
-
-Night green theme from [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib); SVGs are committed by [this workflow](.github/workflows/github-profile-3d-contrib.yml).
-
-<img
-  alt="3D GitHub contribution calendar (night green)"
-  src="./profile-3d-contrib/profile-night-green.svg"
-/>
 
 ---
 
@@ -75,9 +67,56 @@ Night green theme from [github-profile-3d-contrib](https://github.com/yoshi38911
   <br/><br/>
 
   <img
+    alt="GitHub streak"
+    src="https://streak-stats.demolab.com/?user=antoinebou12&theme=dark&hide_border=true"
+  />
+
+  <br/><br/>
+
+  <img
+    alt="3D GitHub contribution calendar (night green)"
+    src="./profile-3d-contrib/profile-night-green.svg"
+  />
+
+  <br/><br/>
+
+  <img
+    alt="Top languages by repo"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoinebou12&theme=dark&hide_border=true&layout=compact&langs_count=8"
+  />
+
+  <br/><br/>
+
+  <img
     alt="Profile Summary"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoinebou12&theme=github_dark"
   />
+
+  <br/><br/>
+
+  <img
+    alt="Repos per language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antoinebou12&theme=github_dark"
+  />
+  &nbsp;
+  <img
+    alt="Most used languages by commits"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoinebou12&theme=github_dark"
+  />
+
+  <br/><br/>
+
+  <img
+    alt="GitHub stats (summary card)"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antoinebou12&theme=github_dark"
+  />
+  <img
+    alt="Productive time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoinebou12&theme=github_dark&utcOffset=-5"
+  />
+
+  <br/><br/>
+
 </details>
 
 <details>
@@ -91,12 +130,6 @@ Night green theme from [github-profile-3d-contrib](https://github.com/yoshi38911
   />
 
   <br/><br/>
-
-  <!-- Toronto is UTC-5 (winter). Adjust if needed. -->
-  <img
-    alt="Productive time"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoinebou12&theme=github_dark&utcOffset=-5"
-  />
 </details>
 
 <details>

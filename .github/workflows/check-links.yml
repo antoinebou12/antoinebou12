@@ -1,0 +1,30 @@
+name: Check links
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Link checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Skip file:// targets (e.g. README images produced by another workflow, absent on some checkouts).
+          args: --verbose --no-progress --exclude '^file:' README.md "./docs/**/*.md"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          jobSummary: true
