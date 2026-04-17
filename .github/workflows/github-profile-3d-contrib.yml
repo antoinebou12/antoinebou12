@@ -19,6 +19,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Keep only profile-night-green.svg
+        run: |
+          find profile-3d-contrib -maxdepth 1 -type f -name '*.svg' ! -name 'profile-night-green.svg' -delete
       - name: Commit & Push
         run: |
           git config user.name github-actions
