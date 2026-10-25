@@ -1,4 +1,4 @@
-# Antoine Boucher
+# Antoine Boucher, M.Sc.
 **Software Engineer · Platform and graphics** · M.Sc. (ÉTS) · Montréal, Canada
 
 Platform and graphics: delivery across TypeScript, .NET, Java/Kotlin, Python, and Docker/Kubernetes; M.Sc. research in interactive graphics with C++/OpenGL and Blender (real-time surface wear, friction, and textures).
