@@ -1,36 +1,47 @@
 # Antoine Boucher
-**Engineer** · Open Source · Montréal, Canada
+**Software Engineer · Platform and graphics** · M.Sc. (ÉTS) · Montréal, Canada
 
-I work on real-time graphics and interaction: textures rooted in physics, plus materials and sampling, and whether the frame still reads under light and motion when you stop art-directing the lighting. A lot of that crosses ML in the pipeline, especially generative 3D (meshes, textures) alongside 2D passes, denoisers, and neural textures that ship inside a renderer. For games and interactive work I reach for motion capture when the body is the input, not an afterthought. Generative ML and LLM-backed helpers are worth it when they shorten iteration, but I still want the code and the tools under my own keys, not a black box I cannot patch. Homelab and self-hosted apps are part of that same habit. I also help with simulation code and small home automations. For collaboration or a longer technical thread, [antoine@antoineboucher.info](mailto:antoine@antoineboucher.info).
+Platform and graphics: delivery across TypeScript, .NET, Java/Kotlin, Python, and Docker/Kubernetes; M.Sc. research in interactive graphics with C++/OpenGL and Blender (real-time surface wear, friction, and textures).
+
+CV: [antoineboucher.info/CV](https://antoineboucher.info/CV/) · [antoine@antoineboucher.info](mailto:antoine@antoineboucher.info)
 
 ## Links
 [![GitHub](https://img.shields.io/badge/GitHub-16171d?style=flat-square&logo=github&logoColor=white)](https://github.com/antoinebou12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16171d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoineboucher12)
 [![Website](https://img.shields.io/badge/antoineboucher.info-16171d?style=flat-square&logo=googlechrome&logoColor=white)](https://antoineboucher.info/)
-[![Email](https://img.shields.io/badge/Email-16171d?style=flat-square&logo=gmail&logoColor=white)](mailto:antoine.boucher012@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-16171d?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/antoinebou12)
+[![CV](https://img.shields.io/badge/CV-16171d?style=flat-square&logo=readme&logoColor=white)](https://antoineboucher.info/CV/)
+[![Email](https://img.shields.io/badge/Email-16171d?style=flat-square&logo=gmail&logoColor=white)](mailto:antoine@antoineboucher.info)
+
+## Certifications & badges
+[![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b57717b2-640e-459b-be04-6de7062b1564)
+[![Cloud Quest](https://img.shields.io/badge/AWS-Cloud_Quest-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/antoine-boucher/badges)
+[![QcES](https://img.shields.io/badge/QcES-Entrepreneuriat_scientifique-2E7D32?style=flat-square)](https://verified.sertifier.com/fr/verify/37471918795197/)
+[![Claude MCP](https://img.shields.io/badge/Claude-MCP-D97706?style=flat-square)](https://www.anthropic.com/)
+[![Claude API](https://img.shields.io/badge/Claude-API-D97706?style=flat-square)](https://www.anthropic.com/)
+[![Claude Platform](https://img.shields.io/badge/Claude-Platform_101-D97706?style=flat-square)](https://www.anthropic.com/)
 
 ---
 
 ## Tech I use a lot
 
 ### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-16171d?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-16171d?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-16171d?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-16171d?style=flat-square&logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/.NET-16171d?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-16171d?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-16171d?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-16171d?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-16171d?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### Tools
-![ComfyUI](https://img.shields.io/badge/ComfyUI-16171d?style=flat-square&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-16171d?style=flat-square&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-16171d?style=flat-square&logo=pandas&logoColor=white)
+### Graphics & tools
+![OpenGL](https://img.shields.io/badge/OpenGL-16171d?style=flat-square&logo=opengl&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-16171d?style=flat-square&logo=blender&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-16171d?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16171d?style=flat-square&logo=postgresql&logoColor=white)
 
-### Deployment
+### Cloud / platform
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-16171d?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-16171d?style=flat-square&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-16171d?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-16171d?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
